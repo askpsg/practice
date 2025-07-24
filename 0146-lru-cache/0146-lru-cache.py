@@ -76,20 +76,10 @@ class LRUCache:
 
         if after_node:
             after_node.before = before_node
-        
-        if before_node:
-            before_node.after = after_node
+        before_node.after = after_node
 
         self.__recent.before = data_node
         data_node.after = self.__recent
         data_node.before = None
 
         self.__recent = data_node
-
-        
-
-
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
