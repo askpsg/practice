@@ -73,10 +73,12 @@ class LRUCache:
 
         before_node = data_node.before
         after_node = data_node.after
+
         if after_node:
             after_node.before = before_node
-
-        before_node.after = after_node
+        
+        if before_node:
+            before_node.after = after_node
 
         self.__recent.before = data_node
         data_node.after = self.__recent
