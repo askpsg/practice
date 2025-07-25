@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/askpsg/practice/tree/master/0394-decode-string) |
+| [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/askpsg/practice/tree/master/0394-decode-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 <!---LeetCode Topics End-->
