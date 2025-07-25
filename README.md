@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -30,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
