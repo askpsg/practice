@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
+| [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/askpsg/practice/tree/master/0324-wiggle-sort-ii) |
 | [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
