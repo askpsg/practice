@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/askpsg/practice/tree/master/0324-wiggle-sort-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
