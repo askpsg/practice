@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
+| [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sliding Window
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/askpsg/practice/tree/master/0394-decode-string) |
 | [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 ## Stack
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
