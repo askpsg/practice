@@ -1,4 +1,4 @@
-from math import sqrt, ceil
+from math import sqrt, floor, gcd
 
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
@@ -8,18 +8,18 @@ class Solution:
 
         lines = {}
         for i in range(n - 1):
-            for j in range(i+1, n):
-                lines[(i, j)] = 0
+            [x1, y1] = points[i]
+            for j in range(i + 1, n):
+                if i == j:
+                    continue
 
-        for [x3, y3] in points:
-            for [i, j] in lines:
-                x1, y1 = points[i]
-                x2, y2 = points[j]
-                if (x3 - x1) * (y2 - y1) == (x2 - x1) * (y3 - y1):
-                    lines[(i, j)] += 1
+                [x2, y2] = points[j]
+                x = x2 - x1
+                y = y2 - y1
+                g = gcd(x, y)
+                x, y = x//g, y//g
+                m = y/x if x else 'inf'
+                c = (y1*x - x1*y)/x if x else x1
+                lines[(m, c)] = lines.get((m, c), 0) + 1
 
-        max_points = 0
-        for line in lines:
-            max_points = max(max_points, lines[line])
-
-        return max_points
+        return ceil(sqrt(2*max(lines.values())))
