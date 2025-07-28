@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 | [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/askpsg/practice/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/askpsg/practice/tree/master/0324-wiggle-sort-ii) |
 | [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/askpsg/practice/tree/master/0068-text-justification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0312-burst-balloons](https://github.com/askpsg/practice/tree/master/0312-burst-balloons) |
 <!---LeetCode Topics End-->
