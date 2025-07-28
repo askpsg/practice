@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/askpsg/practice/tree/master/0041-first-missing-positive) |
+| [0068-text-justification](https://github.com/askpsg/practice/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 | [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/askpsg/practice/tree/master/0068-text-justification) |
 | [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/askpsg/practice/tree/master/0394-decode-string) |
 | [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/askpsg/practice/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
