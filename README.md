@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/askpsg/practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 | [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/askpsg/practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
