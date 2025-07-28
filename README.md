@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 | [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/askpsg/practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/askpsg/practice/tree/master/0324-wiggle-sort-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/askpsg/practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/askpsg/practice/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 | [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/askpsg/practice/tree/master/0275-h-index-ii) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/askpsg/practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
