@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/askpsg/practice/tree/master/0324-wiggle-sort-ii) |
 | [0827-expressive-words](https://github.com/askpsg/practice/tree/master/0827-expressive-words) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/askpsg/practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/askpsg/practice/tree/master/0299-bulls-and-cows) |
 | [0940-fruit-into-baskets](https://github.com/askpsg/practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/askpsg/practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/askpsg/practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
